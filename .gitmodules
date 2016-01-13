@@ -25,3 +25,6 @@
 [submodule "typo3conf/ext/dsaablog"]
 	path = typo3conf/ext/dsaablog
 	url = https://github.com/aabasse/dsaablog.git
+[submodule "typo3conf/ext/blb_blog"]
+	path = typo3conf/ext/blb_blog
+	url = https://github.com/rembertin/BLB_Blog.git
