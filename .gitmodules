@@ -28,3 +28,6 @@
 [submodule "typo3conf/ext/blb_blog"]
 	path = typo3conf/ext/blb_blog
 	url = https://github.com/rembertin/BLB_Blog.git
+[submodule "typo3conf/ext/lg_lg_rb_blog"]
+	path = typo3conf/ext/lg_lg_rb_blog
+	url = https://github.com/lisaGrenier/Typo3.git
