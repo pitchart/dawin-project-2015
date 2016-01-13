@@ -10,3 +10,6 @@
 [submodule "typo3conf/ext/mbm_blog"]
 	path = typo3conf/ext/mbm_blog
 	url = https://github.com/Bramvanosta/School_TYPO3.git
+[submodule "typo3conf/ext/d_k_t_ext"]
+	path = typo3conf/ext/d_k_t_ext
+	url = https://github.com/Dimi-menor/d_k_t_ext.git
