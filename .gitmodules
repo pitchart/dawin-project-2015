@@ -19,3 +19,6 @@
 [submodule "typo3conf/ext/blog_erar"]
 	path = typo3conf/ext/blog_erar
 	url = https://github.com/Andre-Rb/Typo3_blog_erar.git
+[submodule "typo3conf/ext/be2j_blog"]
+	path = typo3conf/ext/be2j_blog
+	url = https://github.com/jeremyvnt/be2j_blog.git
