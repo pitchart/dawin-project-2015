@@ -4,3 +4,6 @@
 [submodule "typo3conf/ext/touver_blog"]
 	path = typo3conf/ext/touver_blog
 	url = https://github.com/audrey-tlm/touver_blog.git
+[submodule "typo3conf/ext/ch_sb_blog"]
+	path = typo3conf/ext/ch_sb_blog
+	url = https://github.com/SnafuB/ch_sb_blog.git
