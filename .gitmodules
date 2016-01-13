@@ -16,3 +16,6 @@
 [submodule "typo3conf/ext/aces"]
 	path = typo3conf/ext/aces
 	url = https://github.com/EtienneSultan/aces.git
+[submodule "typo3conf/ext/blog_erar"]
+	path = typo3conf/ext/blog_erar
+	url = https://github.com/Andre-Rb/Typo3_blog_erar.git
