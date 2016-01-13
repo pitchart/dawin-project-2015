@@ -13,3 +13,6 @@
 [submodule "typo3conf/ext/d_k_t_ext"]
 	path = typo3conf/ext/d_k_t_ext
 	url = https://github.com/Dimi-menor/d_k_t_ext.git
+[submodule "typo3conf/ext/aces"]
+	path = typo3conf/ext/aces
+	url = https://github.com/EtienneSultan/aces.git
