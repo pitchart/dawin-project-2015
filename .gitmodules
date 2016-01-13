@@ -22,3 +22,6 @@
 [submodule "typo3conf/ext/be2j_blog"]
 	path = typo3conf/ext/be2j_blog
 	url = https://github.com/jeremyvnt/be2j_blog.git
+[submodule "typo3conf/ext/dsaablog"]
+	path = typo3conf/ext/dsaablog
+	url = https://github.com/aabasse/dsaablog.git
