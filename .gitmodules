@@ -37,3 +37,6 @@
 [submodule "typo3conf/ext/jpza_blog"]
 	path = typo3conf/ext/jpza_blog
 	url = https://bitbucket.org/Jobarca/jpza_blog.git
+[submodule "typo3conf/ext/ebemrf_blog"]
+	path = typo3conf/ext/ebemrf_blog
+	url = https://github.com/Mirigan/blogByDawin.git
