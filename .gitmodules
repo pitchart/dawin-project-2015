@@ -34,3 +34,6 @@
 [submodule "typo3conf/ext/rb_vp_cp_blog"]
 	path = typo3conf/ext/rb_vp_cp_blog
 	url = https://bitbucket.org/vprigent/typo3.git
+[submodule "typo3conf/ext/jpza_blog"]
+	path = typo3conf/ext/jpza_blog
+	url = https://bitbucket.org/Jobarca/jpza_blog.git
