@@ -1,0 +1,3 @@
+[submodule "typo3conf/ext/pg_blog"]
+	path = typo3conf/ext/pg_blog
+	url = https://github.com/maguedon/pg_blog.git
