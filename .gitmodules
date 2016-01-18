@@ -40,3 +40,6 @@
 [submodule "typo3conf/ext/ebemrf_blog"]
 	path = typo3conf/ext/ebemrf_blog
 	url = https://github.com/Mirigan/blogByDawin.git
+[submodule "typo3conf/ext/mbh_ah_blog"]
+	path = typo3conf/ext/mbh_ah_blog
+	url = https://github.com/malek094/mbh_ah_blog
