@@ -1,0 +1,17 @@
+.htaccess
+Makefile
+fileadmin/
+/typo3_src-7.6.2/
+/typo3conf/LocalConfiguration.php
+/typo3conf/PackageStates.php
+/typo3conf/deprecation_*.log
+/typo3conf/ext/bootstrap_grids/
+/typo3conf/ext/bootstrap_package/
+/typo3conf/ext/extension_builder/
+/typo3conf/ext/gridelements/
+/typo3conf/ext/introduction/
+/typo3conf/ext/realurl/
+/typo3conf/l10n/
+/typo3conf/realurl_autoconf.php
+/typo3temp/
+/uploads/
